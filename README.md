@@ -1,3 +1,3 @@
 # Recipe-App
 
-Recipe App with JavaScript using MealDB API
+Recipe App with JavaScript using TheMealDB API
